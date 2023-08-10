@@ -5,4 +5,6 @@ Spam news detection refers to the process of identifying and filtering out false
 The goal of spam news detection is to prevent the spread of misinformation, disinformation, and sensationalized content that can deceive or mislead readers. This is particularly important in today's digital age, where news can spread rapidly through social media and online platforms.
 
 First- Download datasets of fake and true
+
+
 Second - Run the project1
